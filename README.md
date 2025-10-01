@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya 💻</h1>
-<h3 align="center">Cybersecurity Enthusiast | Programmer | Linux Lover</h3>
+<h3 align="center">TECH & DSA Enthusiast | Programmer </h3>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 20-year-old programmer & cybersecurity engineer  
-- 🔐 Passionate about Linux, open-source, and security research  
-- 🌍 Like to create websites and hack them for bounties  
+- 👨‍💻 19-year-old programmer & Computer Science engineer  
+- 🔐 Passionate about Coding, Web Dev & Open-source Contribution.  
+- 🌍 Like to create Software projects .  
 - 🤝 Contributing to **open-source projects**  
-- 🌐 Interested in **Networking, OS Development, Web3**  
-- 🤖 Exploring **AI/ML, Data Science**  
+- 🌐 Interested in **WEB DEV & DSA  .**  
+- 🤖 Exploring **AI & Cybersecurity**  
 - 📚 Love solving **DSA problems**  
-- 🔧 Learning **hardware hacking, systems engineering, and architecture**
+- 🔧 Learning **DSA in C++, SOFTWARE engineering, and Aptitude**
 
 ---
 
