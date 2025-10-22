@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aditya 💻</h1>
-<h3 align="center">TECH & DSA Enthusiast | Programmer </h3>
+<h1 align="center">Hi 👋, I'm Aditya Gupta 💻</h1>
+<h3 align="center">Tech & DSA Enthusiast | Programmer | Web Developer</h3>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 19-year-old programmer & Computer Science engineer  
-- 🔐 Passionate about Coding, Web Dev & Open-source Contribution.  
-- 🌍 Like to create Software projects .  
-- 🤝 Contributing to **open-source projects**  
-- 🌐 Interested in **WEB DEV & DSA  .**  
-- 🤖 Exploring **AI & Cybersecurity**  
-- 📚 Love solving **DSA problems**  
-- 🔧 Learning **DSA in C++, SOFTWARE engineering, and Aptitude**
+- 🎓 I'm a **Computer Science Engineering student** passionate about innovation and technology.  
+- 💻 I love building **scalable web applications** and crafting **clean, efficient code**.  
+- 🧠 Enthusiastic about **Data Structures, Algorithms, and problem-solving** to strengthen my core logic.  
+- 🌐 Interested in **Full Stack Web Development, Artificial Intelligence, and Cybersecurity**.  
+- 🤝 Actively contributing to **open-source projects** and collaborating with developers worldwide.  
+- ⚙️ Constantly learning and improving through **real-world projects and technical challenges**.  
+- 🚀 Focused on becoming a well-rounded **Software Engineer** who creates impactful digital solutions.
 
 ---
 
@@ -34,23 +33,24 @@
 
 **Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,express,mongodb,c,rust,lua,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,html,css,nodejs,express,mongodb,c" />
 </p>
 
 **Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,git,github,postman,vagrant,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aditya-gupta-a2685b312/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/aditya206gupta" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="48" height="48" alt="X (Twitter)"/></a>
+  <a href="mailto:adityaag5492045@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://leetcode.com/u/adityagupta54/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
 ---
 
-<p align="center">✨ "Capable in all realms of human endeavor" ✨</p>
+<p align="center">✨ "Turning ideas into impactful digital experiences." ✨</p>
