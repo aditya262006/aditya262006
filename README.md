@@ -38,7 +38,7 @@
 
 **Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" />
 </p>
 
 ---
