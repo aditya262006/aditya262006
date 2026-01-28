@@ -33,12 +33,12 @@
 
 **Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,html,css,nodejs,express,mongodb,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
 </p>
 
 **Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=" />
 </p>
 
 ---
